@@ -1,5 +1,6 @@
 public class GitExample {
     public static void main(String[] args) {
-        System.out.println("hello world updated");
+        System.out.println("Branch 1 is open");
+
     }
 }
